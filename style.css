@@ -1,0 +1,44 @@
+h1 {
+    letter-spacing: 3px;
+    text-align: center;
+    color: rgb(34, 77, 24);
+}
+
+h3 {
+    text-decoration: underline;
+    font-size: 30px;
+    font-style: italic;
+    background-color: rosybrown;
+}
+
+.section-header {
+    background-color: rosybrown;
+    border: 2px;
+    border-color: navy;
+    border-style: dotted;
+}
+
+p {
+    line-height: 1.5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 600px;
+}
+
+ol {
+    line-height: 1.5;
+}
+
+ul {
+    line-height: 1.5
+}
+
+#profile-picture {
+    border: 2px solid black;
+}
+
+.section {
+    background-color: coral;
+    border: 2px burlywood solid;
+    margin: 10px 0px 5px 15px;
+    padding: 5px 20px 0px 10px;
+}

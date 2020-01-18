@@ -1,0 +1,20 @@
+h1 {
+    color: blue;
+    font-style: underline;
+    text-decoration: underline;
+}
+
+body {
+    background-color: coral;
+    border: 2px, black, solid;
+    display: flex;
+}
+
+h3 {
+    font-style: italic;
+    background-color: brown;
+}
+
+#section {
+    border: 2px black solid;
+}
